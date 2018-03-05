@@ -1,0 +1,28 @@
+{
+  "name": "exercise12",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hookehuyr@github.com/hookehuyr/exercise12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hookehuyr/exercise12/issues"
+  },
+  "homepage": "https://github.com/hookehuyr/exercise12#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.1.0",
+    "webpack-cli": "^2.0.10"
+  }
+}
